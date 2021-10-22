@@ -1,1 +1,1 @@
-# Crypto-Exchange-Comparer-
+# Crypto-Exchange-Comparer
