@@ -1,0 +1,12 @@
+Are there any sub-optimal choices( or short cuts taken due to limited time ) in your implementation?
+
+  There were not any that I could think of? Only sub-optimal thing was probably the styling (UI) as I did not have enought time to think of a nice interface
+
+
+Is any part of it over-designed? ( It is fine to over-design to showcase your skills as long as you are clear about it)
+  I probably included more components than I needed. I could've just dont one or two but I chose to do several
+
+If you have to scale your solution to 100 users/second traffic what changes would you make, if any?
+ Probably include cloud architecture and also enchance the secuirty of the network
+What are some other enhancements you would have made, if you had more time to do this implementation
+I will create more graphical information like live charts, marketcap, etc. To educate if it's even a good time to buy or sell.
