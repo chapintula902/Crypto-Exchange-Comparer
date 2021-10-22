@@ -14,7 +14,7 @@ Instruction: this app requires you to have react, npm or yarn, installed follow 
 to install the app 
 
 
-### ` Run npm start or Yarn install
+### ` Run npm start or Yarn start
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
